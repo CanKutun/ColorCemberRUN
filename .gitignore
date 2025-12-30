@@ -1,0 +1,61 @@
+# ======================================
+# Unity generated files
+# ======================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+IL2CPPBuildCache/
+Bee/
+[Bb]urstCache/
+
+# ======================================
+# Visual Studio / VS Code / Rider
+# ======================================
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.svd
+*.user
+*.userprefs
+*.booproj
+*.opendb
+*.VC.db
+*.iml
+
+# ======================================
+# OS generated files
+# ======================================
+
+.DS_Store
+Thumbs.db
+sysinfo.txt
+
+# ======================================
+# Android / iOS / Keystore (CRITICAL)
+# ======================================
+
+*.keystore
+*.jks
+
+# ======================================
+# Unity Cloud Build
+# ======================================
+
+/[Uu]ser[Bb]uilds/
+
+# ======================================
+# Local developer scripts (DO NOT COMMIT)
+# ======================================
+
+CCRRun_update_version_and_push.bat
